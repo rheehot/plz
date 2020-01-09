@@ -11,5 +11,6 @@ readme = "README.md"
 description = """
 Rust clone of nvbn/thefuck, plz makes previous command work as well as we can.
 """
+include = ["src", "Cargo.lock", "Cargo.toml", "LICENSE", "README.md"]
 
 [dependencies]
