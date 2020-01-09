@@ -3,7 +3,6 @@ name = "plz"
 version = "0.0.0"
 edition = "2018"
 authors = ["RanolP <public.ranolp@gmail.com>"]
-license = "MIT"
 license-file = "./LICENSE"
 homepage = "https://crates.io/crates/plz"
 repository = "https://github.com/RanolP/plz"
